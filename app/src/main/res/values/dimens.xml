@@ -1,0 +1,50 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_height">232dp</dimen>
+    <dimen name="nav_header_height2">176dp</dimen>
+
+    <!-- Dimensions for welcome screen -->
+    <dimen name="dots_height">30sp</dimen>
+    <dimen name="dots_margin_bottom">20sp</dimen>
+    <dimen name="img_width_height">120sp</dimen>
+    <dimen name="slide_title">30sp</dimen>
+    <dimen name="slide_desc">16sp</dimen>
+    <dimen name="desc_padding">40sp</dimen>
+
+    <!-- For Designing the xml files -->
+    <dimen name="margins_home">4dp</dimen>
+    <dimen name="gapBetweenImages">.1dp</dimen>
+    <dimen name="nav_padding_top">16dp</dimen>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">0dp</dimen>
+    <dimen name="app_bar_height_showinfo">200dp</dimen>
+    <dimen name="view_height">1dp</dimen>
+    <dimen name="text_size_details">16sp</dimen>
+    <dimen name="layout_margin_details">8dp</dimen>
+    <dimen name="layout_margin_top_details">4dp</dimen>
+    <dimen name="text_size_heading_details">24sp</dimen>
+    <dimen name="layout_margin_details_linear">4dp</dimen>
+    <dimen name="text_size_widget">12sp</dimen>
+    <dimen name="image_view_width_video_view">48dp</dimen>
+    <dimen name="image_view_height_video_view">48dp</dimen>
+    <dimen name="margin_top_text">20dp</dimen>
+    <dimen name="layout_margin_widget">8dp</dimen>
+    <dimen name="layout_margin_details_k">4dp</dimen>
+    <dimen name="layout_width_image_screnn1">144dp</dimen>
+    <dimen name="layout_height_screen1">228dp</dimen>
+    <dimen name="margin_start_k">8dp</dimen>
+    <dimen name="text_size_screen1">20sp</dimen>
+    <dimen name="layout_margin_screen1">20dp</dimen>
+    <dimen name="auappbarpadding">16dp</dimen>
+    <dimen name="linbotom">20dp</dimen>
+    <dimen name="linmartop">10dp</dimen>
+    <dimen name="linmargn">20dp</dimen>
+    <dimen name="text">20sp</dimen>
+    <dimen name="textpad">5dp</dimen>
+    <dimen name="gnsmar">20dp</dimen>
+    <dimen name="butmar">10dp</dimen>
+</resources>

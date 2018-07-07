@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">SmallTV</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="sort_popularity">By Popularity</string>
+    <string name="favorites">Favorites</string>
+
+    <!--For Welcome Screen -->
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Button text -->
+    <string name="btn_logout_from_google">Logout from Small Tv</string>
+
+
+    <string name="slide_1_title">Welcome !</string>
+    <string name="slide_1_desc">The easiest way to check the details of the TV Shows!</string>
+
+    <string name="slide_2_title">TV shows</string>
+    <string name="slide_2_desc">Watch favorite TV Shows with your family and friends!</string>
+
+    <string name="slide_3_title">Full Information about the TV Show</string>
+    <string name="slide_3_desc">See the rating,reviews and videos of TV show</string>
+    <string name="welcome_icon1">welcome_icon1</string>
+    <string name="welcome_icon2">welcome_icon2</string>
+    <string name="welcome_icon3">welcome_icon3</string>
+
+    <string name="tv_show_image">TV Show image</string>
+    <string name="sort_by_rating">By Rating</string>
+    <string name="on_the_air">On the Air</string>
+    <string name="aired_today">Aired Today</string>
+    <string name="others">Others</string>
+    <string name="catagories">Categories</string>
+    <string name="poster_image">Poster Image</string>
+    <string name="rating">Rating : </string>
+    <string name="first_aired_date">First Aired Date : </string>
+    <string name="overview">Overview : </string>
+    <string name="videos">Videos</string>
+    <string name="youtubeicon">youtubeIcon</string>
+    <string name="reviews">Reviews</string>
+    <string name="no_overview">\t\t\t\tNo Overviews</string>
+    <string name="navigate_image">Navigate Image</string>
+    <string name="appwidget_text">Show Widgets</string>
+    <string name="popular">popular</string>
+    <string name="top_rated">top_rated</string>
+    <string name="no_internet_see_favourites">No Interlnet.You can see only favourites.</string>
+    <string name="remove_from_fav">Removed from Favorites</string>
+    <string name="no">No Internet Connection to display Videos and Reviews</string>
+    <string name="f">Added to Favorites</string>
+    <string name="o">OK</string>
+    <string name="ok">ok</string>
+    <string name="noReview">No Reviews</string>
+    <string name="load">Loading...</string>
+    <string name="click_here_for_tv_shows">Click Here For Tv Shows</string>
+
+</resources>

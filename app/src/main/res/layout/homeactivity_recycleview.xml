@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/home_GridLayout">
+
+    <android.support.v7.widget.CardView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:background="@color/black">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/home_posterImage"
+            android:scaleType="fitXY"
+            android:layout_margin="@dimen/gapBetweenImages"
+            android:contentDescription="@string/tv_show_image" />
+
+    </android.support.v7.widget.CardView>
+
+</GridLayout>

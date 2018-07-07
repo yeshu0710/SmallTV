@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconLocation">
+        <ignore path="src/main/res/drawable/image_not_available_1.jpg" />
+        <ignore path="src/main/res/drawable/tv_image.jpg" />
+        <ignore path="src/main/res/drawable/welcome_screen2.png" />
+        <ignore path="src/main/res/drawable/welcome_screen3.png" />
+    </issue>
+</lint>
